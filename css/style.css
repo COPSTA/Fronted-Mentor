@@ -59,7 +59,7 @@ body {
 /* Version movil*/
 @media screen and (max-width: 804px) {
   .image {
-    background-image: url(/images/image-product-mobile.jpg);
+    background-image: url(https://raw.githubusercontent.com/COPSTA/Fronted-Mentor/main/images/image-product-mobile.jpg);
     padding: 120px;
     border-radius: 10px 10px 0px 0px;
   }
