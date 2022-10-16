@@ -49,7 +49,7 @@ body {
 
 /*image*/
 .image {
-  background-image: url(/images/image-product-desktop.jpg);
+  background-image: url(https://raw.githubusercontent.com/COPSTA/Fronted-Mentor/main/images/image-product-desktop.jpg);
   background-size: cover;
   background-position: center;
   flex-basis: 50%;
